@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gera Hinojosa</h1>
-<h3 align="center">A passionate frontend developer from Texas</h3>
+<h3 align="center">A full-stack web developer who is passionate about curating solutions to make projects more efficient</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g3r-b3ar&label=Profile%20views&color=0e75b6&style=plastic" alt="g3r-b3ar" /> </p>
 

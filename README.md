@@ -1,4 +1,4 @@
-<img align="center" src="./src/iamges/GitHub_header.png" style="max-width: 100%;">
+<img align="center" src="./src/images/GitHub_header.png" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Gera Hinojosa</h1>
 <h3 align="center">A full-stack web developer that loves a good challenge</h3>
 

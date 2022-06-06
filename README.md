@@ -1,5 +1,4 @@
-<img align="center" src="https://github.com/g3r-b3ar/g3r-b3ar/src/iamges/GitHub_header.png" style="max-width: 100%;">
-![Alt text](/src/images/GitHub_header.png)
+<img align="center" src="./src/iamges/GitHub_header.png" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Gera Hinojosa</h1>
 <h3 align="center">A full-stack web developer that loves a good challenge</h3>
 

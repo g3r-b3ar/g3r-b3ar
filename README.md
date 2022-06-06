@@ -1,3 +1,5 @@
+<img align="center" src="https://github.com/g3r-b3ar/g3r-b3ar/src/iamges/GitHub_header.png" style="max-width: 100%;">
+![Alt text](/src/images/GitHub_header.png)
 <h1 align="center">Hi 👋, I'm Gera Hinojosa</h1>
 <h3 align="center">A full-stack web developer that loves a good challenge</h3>
 
@@ -5,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/studios_oro" target="blank"><img src="https://img.shields.io/twitter/follow/studios_oro?logo=twitter&style=for-the-badge" alt="studios_oro" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://gera-dev.netlify.app/](https://gera-dev.netlify.app/)
 
-- 💬 Ask me about **Java, JavaScript**
+- 💬 Ask me about **UI | UX Design**
 
 - 📫 How to reach me **cielo.oro.studios@gmail.com**
 

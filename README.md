@@ -18,8 +18,8 @@
   </a> -->
 </p>
 
-<h1 align="center">Hi 👋,</h1>
-<h3 align="center">My name is Gera Hinojosa I am Full-Stack Software Engineer, motivated by using technology to make established processes more efficient and productive. I have a background in Architecture, Engineering, and Math. Visit [my website](https://gera-dev.netlify.app) for more information!</h3>
+<h1 align="center">👋</h1>
+<h3 align="center">I am Gera Hinojosa, a Full-Stack Software Engineer, motivated by using technology to make established processes more efficient and productive. I have a background in Architecture, Engineering, and Math. Visit [my website](https://gera-dev.netlify.app) for more information!</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=g3r-b3ar&label=Profile%20views&color=0e75b6&style=plastic" alt="g3r-b3ar" /> </p> -->
 

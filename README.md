@@ -19,7 +19,7 @@
 </p>
 
 <h1 align="center">👋</h1>
-<h3 align="left">I am Gera Hinojosa, a Full-Stack Software Engineer, motivated by using technology to make established processes more efficient and productive. I have a background in Architecture, Engineering, and Math. <br/>
+<h3 align="left">I am Gera Hinojosa, a Full-Stack Software Engineer, motivated by using technology to make established processes more efficient and productive. I have a background in Architecture, Engineering, and Math. <br/><br/>
 
 Visit [my website](https://gera-dev.netlify.app) for more information!</h3>
 

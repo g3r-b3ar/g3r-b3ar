@@ -47,80 +47,77 @@ Visit [my website](https://gera-dev.netlify.app) for more information!</h3>
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Gera-Dev</h3>
+        <br />
+        <a target="_blank" href="#">
+          <img src="./src/images/gera-dev-scrollCapture.gif" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">          
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="https://gera-dev.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p><strong>HTML5, CSS#, JavaScript</strong> - Portfolio Site including links to my projects and contact info</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Sylvia's</h3>
+        <br />
+      <a target="_blank" href="#">
+        <img src="./src/images/sylvias-scrollCapture.gif" width="100%" alt=""/>
+      </a>
+        <br />
+        <p align="center">          
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="https://sylvias.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
+        <p><strong>HTML5, CSS#, JavaScript</strong> - Restaurant Site for a local eatery, that includes a full menu and a short history of the owner</p>
+    </td>
+  </tr>
+  
+<!--   <tr>
+    <td width="50%" valign="top">
       <h3 align="center">Title of Project</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="#" width="100%" alt=""/>
+          <img src="./src/images/gera-dev-scrollCapture.gif" width="100%" alt=""/>
         </a>
         <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
-  </a>  
-  <a href="#" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
-  </a>
-      </p>
+        <p align="center">          
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>  
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
         <p><strong>Tech Used</strong> Project Description</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Title of Project</h3>
         <br />
       <a target="_blank" href="#">
-            <img src="#" width="100%"  alt=""/>
-        </a>
+        <img src="./src/images/sylvias-scrollCapture.gif" width="100%" alt=""/>
+      </a>
         <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
-  </a>
-  <a href="#" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
-  </a>
-      </p>
+        <p align="center">          
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+          </a>
+          <a href="#" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
         <p><strong>Tech Used</strong> Project Description</p>
     </td>
-  </tr>
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Title of Project</h3>
-      <br />
-        <a target="_blank" href="#">
-          <img src="#" width="100%" alt=""/>
-        </a>
-      <br />
-        <p align="center">
-  <a href="#" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
-  </a>
-  <a href="#" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
-  </a>
-      </p>
-        <p><strong>Tech Used</strong> Project Description</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Title of Project</h3>
-        <br />
-        <a target="_blank" href="#">
-          <img src="#" width="100%" alt=""/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
-  </a>
-  <a href="#" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
-  </a>
-      </p>
-        <p><strong>Tech Used</strong> Project Description</p>
-    </td>
-  </tr>
+  </tr> -->
 </table>
 
 <h1 align="center">Technologies</h1>

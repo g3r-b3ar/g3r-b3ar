@@ -1,4 +1,4 @@
-<img align="center" src="./src/images/GitHub_header.png" style="max-width: 100%;">
+<img align="center" src="./src/images/GitHub_headerV2.png" style="max-width: 100%;">
 
 <p align="center">
   <a href="https://gera-dev.netlify.app" target="_blank">
